@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "616629913308",
+    "project_id": "psycheck-d3b7c",
+    "storage_bucket": "psycheck-d3b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616629913308:android:2d3101f756b5bd7e9cd619",
+        "android_client_info": {
+          "package_name": "com.mycompany.responsivedashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616629913308-ppb29g53fvuaqkli3f3hfrrrp8g51lqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7JD8p-98qU7JB-M8uUbDzRzy_2JuRUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616629913308-ppb29g53fvuaqkli3f3hfrrrp8g51lqo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616629913308-elflml8lr7pqj740tji8ru8q7n924rg2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.responsivedashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
