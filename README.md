@@ -6,6 +6,7 @@ Psycheck: Mobile/web app for real-time mental health self-assessment. AI generat
 https://psycheck.flutterflow.app/
 
 # Screenshots:
+<tr><td>aa</td><td>aa</td></tr>
 
 ## Documentation
 
